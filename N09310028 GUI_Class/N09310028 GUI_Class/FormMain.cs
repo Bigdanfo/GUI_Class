@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace N09310028_GUI_Class
 {
-    public partial class Form1 : Form
+    public partial class FormMain : Form
     {
-        public Form1()
+        public FormMain()
         {
             InitializeComponent();
         }
@@ -25,6 +25,11 @@ namespace N09310028_GUI_Class
         private void button1_Click(object sender, EventArgs e)
         {
             button1.Text="我已經被按過了";
+            Form form = new FormButton();
+            form.Show(); 
+
+
+
 
 
 
