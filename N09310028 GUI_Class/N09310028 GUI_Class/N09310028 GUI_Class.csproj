@@ -52,19 +52,22 @@
     <Compile Include="FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormButton.cs">
+    <Compile Include="D:\FormButton.cs">
       <SubType>Form</SubType>
+      <Link>FormButton.cs</Link>
     </Compile>
-    <Compile Include="FormButton.Designer.cs">
+    <Compile Include="D:\FormButton.Designer.cs">
       <DependentUpon>FormButton.cs</DependentUpon>
+      <Link>FormButton.Designer.cs</Link>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormButton.resx">
+    <EmbeddedResource Include="D:\FormButton.resx">
       <DependentUpon>FormButton.cs</DependentUpon>
+      <Link>FormButton.resx</Link>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

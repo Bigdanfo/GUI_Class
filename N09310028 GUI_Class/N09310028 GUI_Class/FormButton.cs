@@ -34,5 +34,18 @@ namespace N09310028_GUI_Class
                 button1.Text ="請按我一下";
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = "下方已被按過了";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string tmp = label2.Text;
+            int sum = Int32.Parse(tmp)+1;
+            label2.Text = sum.ToString();
+
+        }
     }
 }
