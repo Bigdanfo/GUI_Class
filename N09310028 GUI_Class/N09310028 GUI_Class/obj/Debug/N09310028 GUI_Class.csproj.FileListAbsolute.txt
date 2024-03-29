@@ -9,3 +9,15 @@ C:\Users\MEGAS\Desktop\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Deb
 C:\Users\MEGAS\Desktop\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028 GUI_Class.pdb
 C:\Users\MEGAS\Desktop\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.FormMain.resources
 C:\Users\MEGAS\Desktop\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.FormButton.resources
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028 GUI_Class.csproj.AssemblyReference.cache
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028 GUI_Class.exe
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028 GUI_Class.pdb
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\bin\Debug\N09310028 GUI_Class.exe.config
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\bin\Debug\N09310028 GUI_Class.exe
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\bin\Debug\N09310028 GUI_Class.pdb
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.FormButton.resources
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.FormMain.resources
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.Properties.Resources.resources
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028 GUI_Class.csproj.GenerateResource.cache
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028 GUI_Class.csproj.CoreCompileInputs.cache
+C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.Form2.resources
