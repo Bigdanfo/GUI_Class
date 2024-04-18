@@ -43,5 +43,10 @@ namespace N09310028_GUI_Class
 
             form.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

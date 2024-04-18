@@ -22,3 +22,4 @@ C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class
 C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028 GUI_Class.csproj.CoreCompileInputs.cache
 C:\Users\pd964\OneDrive\桌面\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.Form2.resources
 C:\Users\MEGAS\Desktop\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.Form2.resources
+C:\Users\MEGAS\Desktop\GUI_Class\N09310028 GUI_Class\N09310028 GUI_Class\obj\Debug\N09310028_GUI_Class.Form6.resources
