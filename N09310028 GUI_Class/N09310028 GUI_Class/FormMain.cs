@@ -48,5 +48,13 @@ namespace N09310028_GUI_Class
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form form = new FormTimer();
+
+            form.Show();
+
+        }
     }
 }
