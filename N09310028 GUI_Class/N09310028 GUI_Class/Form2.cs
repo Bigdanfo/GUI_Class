@@ -39,7 +39,34 @@ namespace N09310028_GUI_Class
         {
             int a = Int32.Parse(textBox5.Text);
             int b = Int32.Parse(textBox6.Text);
-            label7.Text = (a * b).ToString();
+            label7.Text = (a - b).ToString();
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int a = Int32.Parse(textBox8.Text);
+            int b = Int32.Parse(textBox7.Text);
+            label8.Text = (a * b).ToString();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int a = Int32.Parse(textBox10.Text);
+            int b = Int32.Parse(textBox9.Text);
+            if (b>0)
+            {
+                label11.Text=(a / b).ToString();
+            }
+            else
+            {
+                label11.Text ="錯誤:分母不能為零";
+            }
+            
         }
     }
 }
