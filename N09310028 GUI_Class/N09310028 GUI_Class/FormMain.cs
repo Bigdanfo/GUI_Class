@@ -56,5 +56,12 @@ namespace N09310028_GUI_Class
             form.Show();
 
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form form = new FormGame();
+
+            form.Show();
+        }
     }
 }
