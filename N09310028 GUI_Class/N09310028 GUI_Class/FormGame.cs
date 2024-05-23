@@ -47,6 +47,7 @@ namespace N09310028_GUI_Class
                 int input = Int32.Parse(textBox1.Text);
                 if (input == this.answer) //答對了!
                 {
+
                     MessageBox.Show("恭喜答對!");
                 }
                 else if(input < this.answer)

@@ -63,5 +63,19 @@ namespace N09310028_GUI_Class
 
             form.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form form = new FormCheckBox();
+
+            form.Show();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form form = new FormMenu();
+
+            form.Show();
+        }
     }
 }
